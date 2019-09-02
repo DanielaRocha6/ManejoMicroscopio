@@ -49,7 +49,7 @@ body {
     width : 132px;
     height: 132px;
     opacity: 0.5;
-    filter: blur(0px);
+    filter: blur(0.57px);
  }
 
  .circle {
