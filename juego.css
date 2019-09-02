@@ -96,6 +96,12 @@ body {
     border-radius: 5px;
 }
 
-#titulo {
-    font-size: 11px;
+#titulo, #titulo2 {
+    font-size: 10px;
+}
+#gradua {
+    background: rgb(90, 90, 90);
+    color: #FFF;
+    border-radius: 5px;
+    padding: 2px;
 }
