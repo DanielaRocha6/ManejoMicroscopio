@@ -96,7 +96,10 @@ body {
     border-radius: 5px;
 }
 
-#titulo, #titulo2 {
+#titulo{
+    font-size: 10px;
+}
+#titulo2 {
     font-size: 10px;
 }
 #gradua {
